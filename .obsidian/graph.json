@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:CCNA path:CCNA  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.02193347193347,
+  "lineSizeMultiplier": 3.18160083160083,
+  "collapse-forces": false,
+  "centerStrength": 0.545738045738046,
+  "repelStrength": 10.6652806652807,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.7132754626224405,
+  "close": false
+}
