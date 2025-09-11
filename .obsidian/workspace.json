@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2362ab86fdb7667e",
+        "id": "331f0e51fc87cab7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d501145286ffdf5",
+            "id": "5f54c0d0392dd60e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/قناع الشبكة (Subnet Mask).md",
+                "file": "CCNA/25- (NAT) Network Address Translation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "قناع الشبكة (Subnet Mask)"
+              "title": "25- (NAT) Network Address Translation"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ما",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,16 +166,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2d501145286ffdf5",
+  "active": "5f54c0d0392dd60e",
   "lastOpenFiles": [
-    "CCNA/1 - SOC Analyst.md",
-    "CCNA/قناع الشبكة (Subnet Mask).md",
+    "CCNA/24- RFC 1918.md",
+    "CCNA/25- (NAT) Network Address Translation.md",
+    "CCNA/ملاحظة مهمة لل N.ID & B.ID.md",
+    "CCNA/23- 📊 جدول Subnet Masks في IPv4.md",
+    "CCNA/22- Subnetting.md",
+    "CCNA/21- IPv4.md",
+    "CCNA/20- قناع الشبكة (Subnet Mask).md",
+    "2025-09-12.md",
+    "CCNA/19-  Internet Protocol Version 4 (IPv4).md",
     "CCNA/Index.base",
-    "CCNA/16- 🖥️ MAC Address – Media Access Control Address.md",
+    "CCNA/4- Network Architecture Model.md",
     "CCNA/3 - أهم وظائف ومهام SOC Analyst.md",
+    "CCNA/1 - SOC Analyst.md",
+    "CCNA/16- 🖥️ MAC Address – Media Access Control Address.md",
     "Community Plugins.md",
     "Untitled.canvas",
-    "CCNA/19-  Internet Protocol Version 4 (IPv4).md",
     "CCNA/18- 🖥️ ما هو الـ Ethernet Frame ؟.md",
     "CCNA/17- 🌀 العلاقة بين الطبقة الأولى والثانية (Physical ↔ Data Link).md",
     "CCNA/15- MAC Address.md",
@@ -188,14 +196,8 @@
     "CCNA/8- RJ45 & SFP.md",
     "CCNA/7- الفرق بين UTP & STP Cable.md",
     "CCNA/6- Optical Fibers (الألياف الضوئية).md",
-    "CCNA/5- Physical Link - Physical Layer.md",
     "CCNA/Pasted image 20250908015702.png",
-    "CCNA/4- Network Architecture Model.md",
-    "CCNA/2- الاهداف.md",
-    "create a link.md",
-    "2025-09-08.md",
     "CCNA/Untitled.canvas",
-    "Welcome.md",
     "CCNA"
   ]
 }

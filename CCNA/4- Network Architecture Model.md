@@ -69,3 +69,5 @@
 ⸻
 
 [[5- Physical Link - Physical Layer]]
+
+[[ملاحظة مهمة لل N.ID & B.ID]]
