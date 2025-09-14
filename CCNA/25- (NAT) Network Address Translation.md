@@ -47,3 +47,8 @@ NAT = Network Address Translation
 ---
 
 
+![[Pasted image 20250913014831.png]]
+
+[[ملاحظة مهمة لل N.ID & B.ID]]
+
+[[26- (مصطلحات وأنماط الشبكات اللاسلكية)]]

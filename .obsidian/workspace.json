@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/25- (NAT) Network Address Translation.md",
+                "file": "CCNA/30- القنوات اللاسلكية (Wireless Channels).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25- (NAT) Network Address Translation"
+              "title": "30- القنوات اللاسلكية (Wireless Channels)"
             }
           }
         ]
@@ -168,9 +168,15 @@
   },
   "active": "5f54c0d0392dd60e",
   "lastOpenFiles": [
-    "CCNA/24- RFC 1918.md",
-    "CCNA/25- (NAT) Network Address Translation.md",
+    "CCNA/29-🛰️ التردد (Frequency) في الشبكات اللاسلكية.md",
+    "CCNA/30- القنوات اللاسلكية (Wireless Channels).md",
+    "CCNA/28- الشريحة (SNR وقدرات الأجهزة العميلة).md",
     "CCNA/ملاحظة مهمة لل N.ID & B.ID.md",
+    "CCNA/27- مقاييس الإشارة والجودة في الشبكات اللاسلكية (RF Power, RSSI, Noise & Interference).md",
+    "CCNA/26- (مصطلحات وأنماط الشبكات اللاسلكية).md",
+    "CCNA/25- (NAT) Network Address Translation.md",
+    "Pasted image 20250913014831.png",
+    "CCNA/24- RFC 1918.md",
     "CCNA/23- 📊 جدول Subnet Masks في IPv4.md",
     "CCNA/22- Subnetting.md",
     "CCNA/21- IPv4.md",
@@ -191,11 +197,6 @@
     "CCNA/13- Error of SFP، Duplex.md",
     "CCNA/12- موضوع Collisions.md",
     "CCNA/11- Power Management Modes.md",
-    "CCNA/10- P2P vs Shared Media + PoE.md",
-    "CCNA/9- أنواع كابلات الفايبر (Fiber Optic Cables).md",
-    "CCNA/8- RJ45 & SFP.md",
-    "CCNA/7- الفرق بين UTP & STP Cable.md",
-    "CCNA/6- Optical Fibers (الألياف الضوئية).md",
     "CCNA/Pasted image 20250908015702.png",
     "CCNA/Untitled.canvas",
     "CCNA"
