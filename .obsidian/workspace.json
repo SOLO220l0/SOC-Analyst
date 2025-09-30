@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f54c0d0392dd60e",
+            "id": "4789d39d8696b2bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/14- 🔴 ملاحظة مهمة جداً ‼️.md",
+                "file": "CCNA/55- Bundling Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14- 🔴 ملاحظة مهمة جداً ‼️"
+              "title": "55- Bundling Protocols"
+            }
+          },
+          {
+            "id": "153026088676d11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/56- LACP (Link Aggregation Control Protocol).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "56- LACP (Link Aggregation Control Protocol)"
+            }
+          },
+          {
+            "id": "d0b913e322d4bd78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/57- Static & Dynamic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "57- Static & Dynamic"
+            }
+          },
+          {
+            "id": "f98703d5fb4c8a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/58- AP (Access Point Modes).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "58- AP (Access Point Modes)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,35 +209,35 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5f54c0d0392dd60e",
+  "active": "f98703d5fb4c8a2a",
   "lastOpenFiles": [
-    "CCNA/13- Error of SFP، Duplex.md",
-    "CCNA/39- MAC Table.md",
-    "CCNA/22- Subnetting.md",
-    "CCNA/18- 🖥️ ما هو الـ Ethernet Frame ؟.md",
-    "CCNA/4- Network Architecture Model.md",
-    "CCNA/3 - أهم وظائف ومهام SOC Analyst.md",
-    "CCNA/1 - SOC Analyst.md",
-    "CCNA/38- Switching Concepts.md",
-    "CCNA/37- Docker Containers.md",
+    "CCNA/57- Static & Dynamic.md",
+    "CCNA/58- AP (Access Point Modes).md",
+    "CCNA/56- LACP (Link Aggregation Control Protocol).md",
+    "CCNA/55- Bundling Protocols.md",
+    "CCNA/54- LAG = Link Aggregation Group.md",
+    "CCNA/53- ARP & NDP & LLDP.md",
     "2025-09-12.md",
-    "CCNA/36- Containers.md",
-    "CCNA/ملاحظة مهمة لل N.ID & B.ID.md",
-    "CCNA/35- Hypervisors Types.md",
-    "CCNA/34- Device Virtualization.md",
-    "CCNA/33- Wireless Modes - Terms.md",
-    "CCNA/32- Wireless Modes - Terms.md",
-    "CCNA/31- wireless network components.md",
-    "CCNA/30- القنوات اللاسلكية (Wireless Channels).md",
-    "CCNA/29-🛰️ التردد (Frequency) في الشبكات اللاسلكية.md",
-    "CCNA/28- الشريحة (SNR وقدرات الأجهزة العميلة).md",
-    "CCNA/27- مقاييس الإشارة والجودة في الشبكات اللاسلكية (RF Power, RSSI, Noise & Interference).md",
-    "CCNA/26- (مصطلحات وأنماط الشبكات اللاسلكية).md",
-    "CCNA/25- (NAT) Network Address Translation.md",
-    "Pasted image 20250913014831.png",
+    "CCNA/52- Neighbor Discovery Protocol (NDP).md",
+    "CCNA/50- Per-VLAN STP.md",
+    "CCNA/51- STP Design.md",
+    "CCNA/46- BPDU.md",
+    "CCNA/49- BPDUs (Bridge Protocol Data Units).md",
+    "CCNA/48- Rapid Spanning Tree Protocol (RSTP).md",
+    "CCNA/47- Optimal Path.md",
+    "CCNA/45- انتخابات STP (STP Elections).md",
+    "CCNA/44- STP – Spanning Tree Protocol.md",
+    "CCNA/43- 802.1D & 802.1W.md",
     "CCNA/24- RFC 1918.md",
-    "CCNA/23- 📊 جدول Subnet Masks في IPv4.md",
-    "CCNA/21- IPv4.md",
+    "CCNA/42- Enterprise.md",
+    "CCNA/41- الفرق بين CIDR و VLAN.md",
+    "CCNA/40- أساسيات CLI عامة (مهم تحفظها).md",
+    "CCNA/38- Switching Concepts.md",
+    "CCNA/30- القنوات اللاسلكية (Wireless Channels).md",
+    "CCNA/39- MAC Table.md",
+    "CCNA/37- Docker Containers.md",
+    "CCNA/36- Containers.md",
+    "Pasted image 20250913014831.png",
     "CCNA/Index.base",
     "Untitled.canvas",
     "CCNA/Pasted image 20250908015702.png",
