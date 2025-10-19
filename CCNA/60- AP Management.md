@@ -79,3 +79,4 @@ channel-group mode on
 
 إذا تحب، أقدر أرسم لك **مخطط بالعربي يوضح AP مع منافذ PoE و AUX ودمجها، وكيف WLC يتصل لإدارة APs**، لتكون الصورة واضحة.
 
+[[61- (LAPs - Lightweight Access Points)]]

@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "60- AP Management"
             }
+          },
+          {
+            "id": "d7d0ff0ec9802a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/61- (LAPs - Lightweight Access Points).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "61- (LAPs - Lightweight Access Points)"
+            }
+          },
+          {
+            "id": "eb7a1d0600174199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/74- Default Static Route.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "74- Default Static Route"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -223,36 +251,36 @@
       "graph:Open graph view": false
     }
   },
-  "active": "807afce3db5b84b5",
+  "active": "eb7a1d0600174199",
   "lastOpenFiles": [
-    "CCNA/58- AP (Access Point Modes).md",
+    "CCNA/70- Static Network Route.md",
+    "CCNA/66- Core Routers.md",
+    "CCNA/42- Enterprise.md",
+    "CCNA/7- الفرق بين UTP & STP Cable.md",
+    "CCNA/5- Physical Link - Physical Layer.md",
+    "CCNA/1 - SOC Analyst.md",
+    "CCNA/74- Default Static Route.md",
+    "CCNA/73- A Million Prefix.md",
+    "CCNA/72- Asymmetric Routing.md",
+    "CCNA/71- Symmetric Routing.md",
+    "CCNA/69- Static Host Route.md",
+    "CCNA/68- How Routing Works.md",
+    "CCNA/67- Routed Interface Addressing.md",
+    "CCNA/65- Redundant Gateway.md",
+    "CCNA/64- SVI (Switch Virtual Interface).md",
+    "CCNA/63- VLAN Gateway Design.md",
+    "CCNA/62- FlexConnect.md",
+    "CCNA/61- (LAPs - Lightweight Access Points).md",
     "CCNA/60- AP Management.md",
     "CCNA/59- Deployment Models.md",
+    "CCNA/58- AP (Access Point Modes).md",
     "CCNA/57- Static & Dynamic.md",
+    "CCNA/ملاحظة مهمة لل N.ID & B.ID.md",
     "CCNA/Untitled.md",
+    "CCNA/Index.base",
     "CCNA/56- LACP (Link Aggregation Control Protocol).md",
     "CCNA/55- Bundling Protocols.md",
-    "CCNA/54- LAG = Link Aggregation Group.md",
-    "CCNA/53- ARP & NDP & LLDP.md",
-    "2025-09-12.md",
-    "CCNA/52- Neighbor Discovery Protocol (NDP).md",
-    "CCNA/50- Per-VLAN STP.md",
-    "CCNA/51- STP Design.md",
-    "CCNA/46- BPDU.md",
-    "CCNA/49- BPDUs (Bridge Protocol Data Units).md",
-    "CCNA/48- Rapid Spanning Tree Protocol (RSTP).md",
-    "CCNA/47- Optimal Path.md",
-    "CCNA/45- انتخابات STP (STP Elections).md",
-    "CCNA/44- STP – Spanning Tree Protocol.md",
-    "CCNA/43- 802.1D & 802.1W.md",
-    "CCNA/24- RFC 1918.md",
-    "CCNA/42- Enterprise.md",
-    "CCNA/41- الفرق بين CIDR و VLAN.md",
-    "CCNA/40- أساسيات CLI عامة (مهم تحفظها).md",
-    "CCNA/38- Switching Concepts.md",
-    "CCNA/30- القنوات اللاسلكية (Wireless Channels).md",
-    "Pasted image 20250913014831.png",
-    "CCNA/Index.base",
+    "CCNA/Pasted image 20250913014831.png",
     "Untitled.canvas",
     "CCNA/Pasted image 20250908015702.png",
     "CCNA/Untitled.canvas",
